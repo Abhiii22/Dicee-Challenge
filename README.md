@@ -2,8 +2,6 @@
 
 A simple web-based dice game that randomly rolls two dice to determine a winner or a draw.
 
-![Dice Game Screenshot](dice-screenshot.png) *(optional - add a screenshot later)*
-
 ## 🚀 Features
 - Random dice roll simulation
 - Visual dice display
